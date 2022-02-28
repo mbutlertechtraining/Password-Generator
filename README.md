@@ -7,7 +7,7 @@
 - [License](#License)
 
 ## Description
-As a user, I want to generate a random password.  I want to be prompted to generate passwqord with Numbers, upper and Lowewr case and spewcial chahracters
+As a user, I want to generate a random password which gives me the option to choose numbers, upper and lowe case letters, and special characters generate a password.  
 
 ## Deployment:
 GitHub Repo: https://github.com/mbutlertechtraining/Password-Generator
