@@ -10,9 +10,9 @@
 As a user, I want to generate a random password.  I want to be prompted to generate passwqord with Numbers, upper and Lowewr case and spewcial chahracters
 
 ## Deployment:
-GitHub Repo: https://github.com/al-moreno/digital_clock
-GitHub Pages: https://al-moreno.github.io/digital_clock/
-![picture](clock.png)
+GitHub Repo: https://github.com/mbutlertechtraining/Password-Generator
+GitHub Pages: https://mbutlertechtraining.github.io/Password-Generator/
+![picture](image1.png)
 
 ## Installation:
 1. No installation if needed
@@ -27,4 +27,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
 
-https://github.com/mbutlertechtraining/Password-Generator.git   
